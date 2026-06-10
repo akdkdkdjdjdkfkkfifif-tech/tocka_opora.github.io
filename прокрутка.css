@@ -1,0 +1,144 @@
+body {
+    background-image: url("fon/fons.png");
+    
+    height: 1500px;
+    overflow-y: auto;
+    
+}
+.pt {
+    text-align: center;
+    
+    color: rgb(148, 162, 209);
+}
+.ppp {
+    position: relative;
+    right: -96px;
+    top: 90px;
+    width: 260px;
+    height: 200px;
+}
+.prof{
+    position: relative;
+    right: -92px;
+    top: 90px;
+    width: 400px;
+    height: 200px;
+}
+.d {
+    position: relative;
+    right: 300px;
+    top: -80px;
+}
+.ssss {
+    position: relative;
+    right: 399px;
+    top: -40px;
+}
+.mmm {
+    position: relative;
+    right: 485px;
+    top: -1px;
+}
+.mmms {
+    position: relative;
+    right: 570px;
+    top: 40px;
+}
+.vs {
+    right: 1px;
+    top: 130px;
+}
+.dv {
+    position: relative;
+    right: 1450px;
+    top: 230px;
+
+}
+.ssssv {
+    position: relative;
+    right: -300px;
+    top: 70px;
+}
+.mmmv {
+    position: relative;
+    right: -190px;
+    top: 110px;
+}
+.mmmsv {
+    position: relative;
+    right: -100px;
+    top: 140px;
+}
+.dvd {
+    position: relative;
+    right: -330px;
+    top: -200px;
+    width: 950px;
+    height: 930px;
+}.pppv {
+	position: relative;
+    right: 1050px;
+    top: 400px;
+    width: 260px;
+    height: 200px;
+}
+.profv {
+	position: relative;
+    right: 1060px;
+    top: 400px;
+    width: 400px;
+    height: 200px;
+}
+.piif {
+	position: relative;
+    right: 335px;
+    top: 500px;
+    
+}
+.ddddd {
+    position: relative;
+    right: 830px;
+    top: 550px;
+    width: 500px;
+    height: 200px;
+}
+.vih {
+    position: relative;
+    right: 120px;
+    top: 1170px;
+    width: 2100px;
+    height: 200px;
+}
+.vad {
+    position: relative;
+    right: 300px;
+    top: 900px;
+    color: aliceblue;
+}
+.spps {
+    position: relative;
+    right: -1000px;
+    top: 170px;
+    
+}
+.vjj {
+    position: relative;
+    right: -1470px;
+    top: -37px;
+    width: 500px;
+    height: 150px;
+}
+.vadd {
+    position: relative;
+    right: 460px;
+    top: 950px;
+    color: aliceblue;
+
+}
+.cccc {
+    position: relative;
+    right: -1500px;
+    top: -38px;
+    width: 400px;
+    height: 100px;
+}

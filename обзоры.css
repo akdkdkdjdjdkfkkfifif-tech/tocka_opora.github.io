@@ -1,0 +1,8 @@
+body {
+    background-image: url("fon/контент.png");
+    background-repeat: no-repeat; 
+    background-attachment: fixed; 
+    background-position: center; 
+    background-size: contain;
+    background-size: 1920px 980px;
+}

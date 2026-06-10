@@ -1,0 +1,36 @@
+body {
+    background-image: url("fon/fons.png");
+    overflow: hidden;
+    height: 100%;
+    
+    
+}
+.e {
+    position: relative;
+    right: 99px;
+    top: -40px;
+    width: 950px;
+    height: 980px;
+}
+
+.trr {
+    position: relative;
+    right: 0px;
+    top: 0px;
+    width: 1050px;
+    height: 930px;
+}
+.ofo {
+	position: relative;
+    right: -860px;
+    top: -800px;
+    width: 1250px;
+    height: 930px;
+}
+.tike {
+    position: relative;
+    right: 100px;
+    top: -800px;
+    width: 650px;
+    height: 330px;
+}

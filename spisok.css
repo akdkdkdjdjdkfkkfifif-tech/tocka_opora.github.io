@@ -1,0 +1,42 @@
+body {
+    background-image: url("fon/fons.png");
+    
+    height: 1500px;
+    overflow-y: auto;
+    
+}
+.byby {
+    position: relative;
+    right: -92px;
+    top: 90px;
+    width: 400px;
+    height: 200px;
+}
+.myby {
+    position: relative;
+    right: 312px;
+    top: 390px;
+    width: 400px;
+    height: 200px;
+}
+.syby {
+    position: relative;
+    right: 715px;
+    top: 690px;
+    width: 400px;
+    height: 200px;
+}
+.dyby {
+    position: relative;
+    right: 1115px;
+    top: 990px;
+    width: 400px;
+    height: 200px;
+}
+.ddyby {
+    position: relative;
+    right: 1550px;
+    top: 1290px;
+    width: 400px;
+    height: 200px;
+}

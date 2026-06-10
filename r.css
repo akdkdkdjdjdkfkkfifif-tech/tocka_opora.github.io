@@ -1,0 +1,30 @@
+.btn {
+    text-align: center;
+}
+h1 {
+    text-align: center;
+	
+}
+body {
+    background-image: url("fon/fons.png");
+}
+.Button {
+    position: relative;
+    right: -550px;
+    top: -600px;
+    width: 990px;
+    height: 760px;
+    
+}
+.logo {
+	position: relative;
+    left: 400px;
+	
+}
+.loddo {
+    position: relative;
+    right: -590px;
+    top: -1400px;
+    width: 550px;
+    height: 300px;
+}

@@ -1,0 +1,12 @@
+body {
+    background-image: url("fon/фон чата.png");
+    background-repeat: no-repeat; 
+    background-attachment: fixed; 
+    background-position: center; 
+    background-size: contain;
+    background-size: 2000px 1000px;
+}
+.edede {
+      right: 99px;
+        top: -40px;  
+}
